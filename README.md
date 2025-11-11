@@ -7,12 +7,7 @@ This repository provides the Python implementations of the two particle-detectio
 - `algorithm_a.py`: Implementation of Algorithm A
 - `algorithm_b.py`: Implementation of Algorithm B
 
-## Required Packages
-numpy
-opencv-python
-matplotlib
-scikit-image
-igor2
+Required packages: `numpy`, `opencv-python`, `matplotlib`, `scikit-image`, `igor2`
 
 ## Contact
 For questions, contact Eric Zang at eric.q.zang@gmail.com.
